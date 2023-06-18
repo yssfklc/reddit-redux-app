@@ -11,7 +11,7 @@ In this project, **async api requests, react hooks, and React-Redux** used to de
  7. Write css class to make the page look better (style.css)
 
 ## In App Picture
-![Reddit Api Usage to print the recent posts]()
+![Reddit Api Usage to print the recent posts](https://user-images.githubusercontent.com/121329421/246611937-bc615aa3-bfeb-45c7-a705-ba53e7254a33.png)
 ## How to Use
 * Fork and set up the project
 * See the posts
